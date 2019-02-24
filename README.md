@@ -1,3 +1,3 @@
 # matplotlib
 
-repo for youtube channel: https://www.youtube.com/playlist?list=PLtp8WNnmsfVvBX9Q6mkyej-ccUdqDCKKf
+repo for youtube channel: https://www.youtube.com/playlist?list=PLXziV1DL41oiauCxKy1OZaUB5AGvmkudq
